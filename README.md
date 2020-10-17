@@ -43,7 +43,8 @@ You will take as reply a json with all the requested data, for example :
 
 ## Usage
 
-FIXME
+Run "lein deps" in order to see if all the dependencies are installed.
+Then run "lein ring server <number_of_port>" for example "lein ring server 3000".
 
 ## License
 
